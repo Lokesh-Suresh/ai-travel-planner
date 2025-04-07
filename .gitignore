@@ -1,0 +1,22 @@
+# Java/Spring Boot
+/target
+*.log
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+
+# Node/Angular
+node_modules/
+dist/
+.angular/
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Others
+.vscode/
+*.swp
